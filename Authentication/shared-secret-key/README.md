@@ -3,7 +3,7 @@ Have you seen this bug bounty tip from [@_jensec](https://x.com/_jensec)?
 > [#bugbountytips](https://twitter.com/hashtag/bugbountytips?src=hash&amp;ref_src=twsrc%5Etfw) [#bugbounty](https://twitter.com/hashtag/bugbounty?src=hash&amp;ref_src=twsrc%5Etfw)  
 > How I was able to find multiple critical vulnerabilities to get Full Account Takeover with the help of PlayStore and AppStore region settings.
 >
-> ![Image](https://pbs.twimg.com/media/EfEdXCZU8AEypT0?format=jpg&name=small)
+> ![Image](https://pbs.twimg.com/media/EfEdXCZU8AEypT0?format=jpg&name=large)
 > 
 > — Jenish Sojitra (@_jensec) [August 10, 2020](https://twitter.com/_jensec/status/1292846852010721280?ref_src=twsrc%5Etfw)
 
@@ -25,7 +25,7 @@ But if the attacker obtains a token from the EU region and uses it in the EA reg
 >  
 > The best explanation gets a 25€ SWAG voucher!🎫  
 >
-> ![Image](https://pbs.twimg.com/media/FkBmiP8X0AAu4R-?format=jpg&name=small)  
+> ![Image](https://pbs.twimg.com/media/FkBmiP8X0AAu4R-?format=jpg&name=large)  
 >  
 > — Intigriti (@intigriti) [December 15, 2022](https://twitter.com/intigriti/status/1603394374272000002?ref_src=twsrc%5Etfw)
 
