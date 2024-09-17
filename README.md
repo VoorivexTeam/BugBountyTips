@@ -2,7 +2,7 @@
 
 
 ## Authentication Class
-- Account takeover: Using the same key in various regions [[original tweet](https://x.com/_jensec/status/1292846852010721280), [our analysis](/authentication-jwt-same-key)].
+- Account takeover: Using the same key in various regions [[original tweet](https://x.com/_jensec/status/1292846852010721280), [our analysis](./Authentication/shared-secret-key/README.md)].
     - Sign up in the **EU region** with `victim@gmail.com`
     - Sign in to the account, grab the JWT token or session, use it in the **US region**
 - Email verification bypass: token is bound to the user not the email [[original tweet](https://x.com/Jayesh25_/status/1725429962931335599), [our analysis](/email-verification-bypass)]
